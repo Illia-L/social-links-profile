@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+h3,
+p,
+ul,
+li,
+a,
+img {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
